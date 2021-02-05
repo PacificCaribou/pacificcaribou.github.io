@@ -35,9 +35,9 @@ npm start
 
 Enjoy!
 
-## Credits
+## Credits/Stack
 
-This site was made by PacificCaribou.
+This site was made by PacificCaribou using React/Tailwind.
 
 ## License
 
