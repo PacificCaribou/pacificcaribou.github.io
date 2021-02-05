@@ -18,10 +18,14 @@ function App() {
           </p>
           <ul className={Styles.contactList}>
             <li className={Styles.contactListItem}>
-              <FontAwesomeIcon icon={faGithub} />
+              <a href='https://www.github.com/pacificcaribou'>
+                <FontAwesomeIcon icon={faGithub} />
+              </a>
             </li>
             <li className={Styles.contactListItem}>
-              <FontAwesomeIcon icon={faEnvelope} />
+              <a href='mailto: ob09f520z@relay.firefox.com'>
+                <FontAwesomeIcon icon={faEnvelope} />
+              </a>
             </li>
             <li className={Styles.contactListItem}>
               <FontAwesomeIcon icon={faRss} />
